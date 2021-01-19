@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    height: 100vh;
+    background:linear-gradient(to top left, rgb(63, 192, 46), rgb(59, 14, 223),red) ;
+}
+.container{
+    margin-top: 20px;
+    align-items: center;
+}

@@ -1,0 +1,58 @@
+{
+  "Languages": [
+    {
+      "id": 1,
+      "name": "javascript",
+      "details": "JavaScript is the scripting language"
+    },
+    {
+      "id": 2,
+      "name": "NodeJS",
+      "details": "NodeJS is the scripting language"
+    },
+    {
+      "id": 5,
+      "name": "NofghjkldeJS",
+      "details": "NodeJS is the scripting language"
+    },
+    {
+      "id": 3,
+      "name": "ReactJS",
+      "details": "ReactJS is the scripting language"
+    },
+    {
+      "id": 910,
+      "details": "Java is object oriented language"
+    },
+    {
+      "id": 197,
+      "name": "Java",
+      "details": "lajdijksmxkcvfihdjsm"
+    },
+    {
+      "id": 290,
+      "name": "",
+      "details": "Kanpur wale"
+    },
+    {
+      "id": 711,
+      "name": "Firoz khan",
+      "details": "KAnpurwale"
+    },
+    {
+      "id": 582,
+      "name": "Akhlaque",
+      "details": "Ludo"
+    },
+    {
+      "id": 936,
+      "name": "Python",
+      "details": "Python is interpreted langouage"
+    },
+    {
+      "id": 627,
+      "name": "Atts",
+      "details": "Khilada"
+    }
+  ]
+}
